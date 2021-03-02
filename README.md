@@ -1,30 +1,30 @@
-# bulma-svelte
+# snowpack-template-svelte-scss-ts-bulma
 
-Empty project.
+Empty project/template configured with snowpack.
+Supports typescript, scss/sass, bulma out of the box.
 
 ## How to run on localhost
 
 First install dependencies:
 
 ```sh
-npm install
+yarn install
 ```
 
 To run in dev mode mode:
 
 ```sh
-npm start
+yarn start
 ```
 
-Then go to http://localhost:8080
+Then go to http://localhost:5000
 
 To create a production build:
 
 ```sh
-npm run build
+yarn build
 ```
 
 ## Credits
 
-Made with [createapp.dev](https://createapp.dev/)
-
+Thanks [createapp.dev](https://createapp.dev/) and [Garrett Cannon](https://github.com/GarrettCannon/snowpack-svelte-ts-tw)
